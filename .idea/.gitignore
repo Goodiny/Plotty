@@ -2,5 +2,5 @@
 /shelf/
 /workspace.xml
 ../venv/
-*.xml
-*.iml
+/**/*.xml
+/Plotty.iml
