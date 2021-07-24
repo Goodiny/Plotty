@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+# /workspace.xml
 ../venv/
 /**/*.xml
-/Plotty.iml
+/**/*.iml
